@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "LateRegent-U6XM.aternos.me:26505",
+    "port": 26505,
     "version": "",
     "try-creative": false
   },
